@@ -1,9 +1,7 @@
 # <p align="center"> ![alt text](https://github.com/Dimitrov-S-Dev-Python/SoftUni_MS_SQL/blob/master/SoftUni-Logo.png) <p>
-# MS SQL
-Intensive course on the basics of databases to one of the most widely used database management systems (DBMS) used in the development of modern information systems - Microsoft SQL Server. 
+# The Ultimate Pandas Bootcamp: Advanced Python Data Analysis
+Over 32 hours, 10+ datasets that range from wine servings, video game sales, SAT scores to stock prices, college salaries and 50+ skill challenges, 
 ## Acquired skills
-- Working with databases
-- Transaction Management
-- Using procedures and functions
-- Handling and storing data
-- Using the ACID model
+- Transform, clean, filter, group by, pivot, and otherwise manipulate a any dataset.
+- Random-number generators, binary operators, memory pointers, and more!
+- Reading data from the web, pickles, Excel files right within pandas.
